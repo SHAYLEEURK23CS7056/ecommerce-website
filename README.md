@@ -25,10 +25,5 @@ This is a basic e-commerce website built using HTML, CSS, and JavaScript.
 - JavaScript (Vanilla)
 - Browser Local Storage
 
-##  Note
-
-This is a beginner-level front-end project with no backend or payment integration.  
-All data is stored in the browser using local storage and resets if cleared.
-
 
 
